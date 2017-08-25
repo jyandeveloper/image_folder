@@ -3,3 +3,4 @@ add a test2 -- dev
 add a test3 -- dev
 add a test4 -- dev
 add a test5 -- dev
+add a test6 -- master
